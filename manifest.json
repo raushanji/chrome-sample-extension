@@ -1,0 +1,10 @@
+{
+    "name": "My Sample Chrome Extension",
+    "description": "This is the sample chrome extension for learnig purpose",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "welcome.html",
+        "default_icon": "sample_icon.png"
+    }
+}
